@@ -1,9 +1,5 @@
-name: Picture Blog
-layout_spectrum: 0.8647411504597634
+layout_spectrum: 0.8938894961029291
 typography_spectrum: 0.9091253512301015
-opengraph:
-  type: ''
-  appId: ''
 color:
   brandColors:
     - '#225378'
@@ -15,6 +11,12 @@ color:
   lightness: 0.7326384468314937
   saturation: 0.4709118514875761
   rhythmicContrast: 0.38097004797840683
+coverPrefs:
+  filter: false
+name: Picture Blog
+opengraph:
+  type: ''
+  appId: ''
 title: ''
 author:
   name: ''
