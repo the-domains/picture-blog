@@ -2,19 +2,20 @@
 at__type: Article
 at__context: 'http://schema.org'
 title: ''
-dateModified: '2016-08-23T11:47:47.354Z'
+datePublished: '2016-08-23T11:55:15.293Z'
+dateModified: '2016-08-23T11:54:48.907Z'
 publisher: {}
 author: []
 inFeed: true
-description: ' Market in Busan, Korea'
+description: >-
+  The shops on the outer edge tend to carry more grain products. The variety is
+  great and the prices pretty good.
 via: {}
-datePublished: '2016-08-23T11:48:02.583Z'
 starred: false
 sourcePath: _posts/2016-08-23-market-in-busan-korea.md
 _type: Blurb
 
 ---
-Market in Busan, Korea
 ![The shops on the outer edge tend to carry more grain products. The variety is great and the prices pretty good.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c69cbc1-940a-493d-a54b-1706738d74bc.jpg)
 ![Inside the market things are more organized and specialized. ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/27970af83efd6fcbefc34c1f8d7a4d3125038dce.jpg)
 ![An example of the fresh seafood available. These were caught overnight and brought in before dawn. ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2df0bbaf-a97e-41d5-af8d-2e190868cecb.jpg)
