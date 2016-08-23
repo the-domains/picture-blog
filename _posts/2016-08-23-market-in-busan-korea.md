@@ -2,8 +2,8 @@
 at__type: Article
 at__context: 'http://schema.org'
 title: ''
-datePublished: '2016-08-23T11:55:15.293Z'
-dateModified: '2016-08-23T11:54:48.907Z'
+datePublished: '2016-08-23T13:50:59.533Z'
+dateModified: '2016-08-23T13:50:52.062Z'
 publisher: {}
 author: []
 inFeed: true
@@ -23,4 +23,4 @@ _type: Blurb
 
 <article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/558586e0-2669-4bfe-a958-a75a709d7a82.jpg" /><p>A cheap and simple meal at the market, this is fried fish with side dishes for 2, and costs about $12 total.</p></article>
 
-<iframe src="https://the-grid.github.io/ed-location/?latitude=35.14500064105861&amp;longitude=-230.94091624259815&amp;zoom=16" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-location/?latitude=35.139694133588854&amp;longitude=-230.94153671117965&amp;zoom=14" style=""></iframe>
