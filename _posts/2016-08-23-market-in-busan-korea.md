@@ -2,8 +2,8 @@
 at__type: Article
 at__context: 'http://schema.org'
 title: ''
-datePublished: '2016-08-23T13:50:59.533Z'
-dateModified: '2016-08-23T13:50:52.062Z'
+datePublished: '2016-08-23T13:52:55.030Z'
+dateModified: '2016-08-23T13:52:48.729Z'
 publisher: {}
 author: []
 inFeed: true
@@ -21,6 +21,4 @@ _type: Blurb
 ![An example of the fresh seafood available. These were caught overnight and brought in before dawn. ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2df0bbaf-a97e-41d5-af8d-2e190868cecb.jpg)
 ![Shopkeepers take a break during the afternoon lull](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3640a664-ca18-46d9-bacb-fbcc8138131d.jpg)
 
-<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/558586e0-2669-4bfe-a958-a75a709d7a82.jpg" /><p>A cheap and simple meal at the market, this is fried fish with side dishes for 2, and costs about $12 total.</p></article>
-
-<iframe src="https://the-grid.github.io/ed-location/?latitude=35.139694133588854&amp;longitude=-230.94153671117965&amp;zoom=14" style=""></iframe>
+<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/558586e0-2669-4bfe-a958-a75a709d7a82.jpg" /><h1>상정식</h1><p>A cheap and simple meal at the market, this is fried fish with side dishes for 2, and costs about $12 total.</p></article>
