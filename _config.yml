@@ -1,0 +1,14 @@
+name: Picture Blog
+layout_spectrum: 0.8647411504597634
+typography_spectrum: 0.9091253512301015
+color:
+  brandColors:
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+  brandStrength: 0.4914489457255905
+  lightness: 0.7326384468314937
+  saturation: 0.4709118514875761
+  rhythmicContrast: 0.38097004797840683
