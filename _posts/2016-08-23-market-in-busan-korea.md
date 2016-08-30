@@ -2,20 +2,19 @@
 at__type: Article
 at__context: 'http://schema.org'
 title: ''
-dateModified: '2016-08-24T13:43:47.445Z'
+datePublished: '2016-08-28T22:33:27.206Z'
+dateModified: '2016-08-28T22:33:25.438Z'
 publisher: {}
 author: []
 inFeed: true
-description: >-
-  The shops on the outer edge tend to carry more grain and dry goods. The
-  variety is great and the prices pretty good.
+description: 'This is one of the larger markets in Busan Kore, fall 2013'
 via: {}
-datePublished: '2016-08-24T13:43:52.809Z'
 starred: false
 sourcePath: _posts/2016-08-23-market-in-busan-korea.md
 _type: Blurb
 
 ---
+This is one of the larger markets in Busan Kore, fall 2013
 ![The shops on the outer edge tend to carry more grain and dry goods. The variety is great and the prices pretty good.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c69cbc1-940a-493d-a54b-1706738d74bc.jpg)
 ![Inside the market things are more organized and specialized. ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/27970af83efd6fcbefc34c1f8d7a4d3125038dce.jpg)
 ![An example of the fresh seafood available. These were caught overnight and brought in before dawn. ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2df0bbaf-a97e-41d5-af8d-2e190868cecb.jpg)
